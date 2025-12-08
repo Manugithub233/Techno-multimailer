@@ -114,11 +114,7 @@ const marketData = {
             }
         }
     },
-    "INDIA": {
-        "type": "simple",
-        "to": "varun@techno-communications.com",
-        "cc": ""
-    },
+
     "LOS ANGELES": {
         "type": "complex",
         "districts": {
